@@ -28,3 +28,7 @@ This is a course in Python for Business
 3. Claretiano
 4. Carmelo
 5. Diez de Octubre
+6. Rosa de Santa Maria
+7. Saco Oliveros
+8. Maria de la Providencia
+s
