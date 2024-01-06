@@ -21,3 +21,14 @@ This is a course in Python for Business
 2. Taylor Swift
 3. Loona
 4. Mamamoo
+
+## Schools
+1. Salesiano
+2. Trilce
+3. Claretiano
+4. Carmelo
+5. Diez de Octubre
+6. Rosa de Santa Maria
+7. Saco Oliveros
+8. Maria de la Providencia
+s
