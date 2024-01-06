@@ -15,3 +15,9 @@ This is a course in Python for Business
 2. Wonka
 3. Avatar
 4. Starwars
+
+## Artist
+1. Dreamcatcher
+2. Taylor Swift
+3. Loona
+4. Mamamoo
