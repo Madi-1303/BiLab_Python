@@ -7,3 +7,4 @@ This is a course in Python for Business
 3. Adherly Perez
 4. Joe Calderon
 5. Andra Acero
+6. Camila Quilcate
